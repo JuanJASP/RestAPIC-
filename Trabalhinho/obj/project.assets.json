@@ -5598,11 +5598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan\\Desktop\\UPTRABALHO\\Trabalhinho\\Trabalhinho.csproj",
+      "projectUniqueName": "C:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\Trabalhinho.csproj",
       "projectName": "Trabalhinho",
-      "projectPath": "C:\\Users\\Juan\\Desktop\\UPTRABALHO\\Trabalhinho\\Trabalhinho.csproj",
+      "projectPath": "C:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\Trabalhinho.csproj",
       "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan\\Desktop\\UPTRABALHO\\Trabalhinho\\obj\\",
+      "outputPath": "C:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config"

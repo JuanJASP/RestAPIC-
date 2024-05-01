@@ -313,3 +313,4 @@ c:\Users\Juan\Desktop\RestAPICSHARP\Trabalhinho\obj\Debug\net8.0\refint\Trabalhi
 c:\Users\Juan\Desktop\RestAPICSHARP\Trabalhinho\obj\Debug\net8.0\Trabalhinho.pdb
 c:\Users\Juan\Desktop\RestAPICSHARP\Trabalhinho\obj\Debug\net8.0\Trabalhinho.genruntimeconfig.cache
 c:\Users\Juan\Desktop\RestAPICSHARP\Trabalhinho\obj\Debug\net8.0\ref\Trabalhinho.dll
+c:\Users\Juan\Desktop\RestAPICSHARP\Trabalhinho\obj\Debug\net8.0\Trabalhinho.sourcelink.json

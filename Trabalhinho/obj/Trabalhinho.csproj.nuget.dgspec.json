@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\Trabalhinho.csproj": {}
+    "C:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\Trabalhinho.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\Trabalhinho.csproj": {
+    "C:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\Trabalhinho.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\Trabalhinho.csproj",
+        "projectUniqueName": "C:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\Trabalhinho.csproj",
         "projectName": "Trabalhinho",
-        "projectPath": "c:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\Trabalhinho.csproj",
+        "projectPath": "C:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\Trabalhinho.csproj",
         "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\obj\\",
+        "outputPath": "C:\\Users\\Juan\\Desktop\\RestAPICSHARP\\Trabalhinho\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config"

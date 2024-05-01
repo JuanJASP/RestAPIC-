@@ -34,15 +34,15 @@ public static class Musica{
 
         });
         app.MapGet("api/mostrar/{id}/musicas",(AppDbContext context , Guid id)=>{
-            var musicasArtista = context.Artistas.Include(artista => artista.Musica).FirstOrDefault(artista => artista.Id == id);
+            var musicasArtista = context.Artistas.FirstOrDefault(artista => artista.Id == id);
             if (musicasArtista == null) return Results.NotFound();
 
-            return Results.Ok(musicasArtista);
+            return Results.Ok(musicasArtista.Musica);
         });
 
         //Atualizar as infos
 
-        app.MapPut("api/atualizar",(AppDbContext context, Artista atualizaArtista)=>{
+        app.MapPut("api/atualizar/{id}",(AppDbContext context, Artista atualizaArtista, Guid id)=>{
 
             var artistas = context.Artistas.Find(atualizaArtista.Id);
             if(artistas==null){
